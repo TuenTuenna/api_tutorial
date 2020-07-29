@@ -1,3 +1,4 @@
+
 ## php laravel 7 fundamental api tutorial
 
 1. 소스를 다운 받습니다.
@@ -6,3 +7,4 @@
 4. .env 파일에 디비 명과 비번을 입력해 설정합니다.
 5. php artisan migrate 를 통해 디비테이블을 만듭니다.
 6. php artisan db:seed --class=TodoSeeder 를 통해 더미 데이터를 넣습니다
+
