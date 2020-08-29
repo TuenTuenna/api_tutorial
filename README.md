@@ -7,4 +7,4 @@
 4. .env 파일에 디비 명과 비번을 입력해 설정합니다.
 5. php artisan migrate 를 통해 디비테이블을 만듭니다.
 6. php artisan db:seed --class=TodoSeeder 를 통해 더미 데이터를 넣습니다
-
+7. php artisan key:generate 앱 키 생성 
